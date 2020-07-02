@@ -12,6 +12,7 @@ dogs-vs-cats/
 NYT-comments/
 model/
 googlemapskey.txt
+human_activity/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
