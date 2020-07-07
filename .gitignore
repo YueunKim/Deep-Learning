@@ -13,6 +13,8 @@ NYT-comments/
 model/
 googlemapskey.txt
 human_activity/
+santander/
+preview/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
