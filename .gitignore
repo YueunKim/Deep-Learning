@@ -15,6 +15,7 @@ googlemapskey.txt
 human_activity/
 santander/
 preview/
+dataset/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
